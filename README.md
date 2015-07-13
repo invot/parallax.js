@@ -1,5 +1,5 @@
 # parallax.js
-Simple script that enabled parallax scrolling
+Simple jQuery plugin that enables parallax scrolling
 
 Simply add the proper class to an element and it will scroll all parallax-like! Woot!
 
